@@ -1,0 +1,16 @@
+body{
+    background-color:#ACA8A5;
+}
+
+.ty {
+    margin-right: 13px;
+}
+
+.flexcabç{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    top: 0;
+    position: fixed;
+}
